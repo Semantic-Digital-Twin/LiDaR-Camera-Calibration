@@ -1,0 +1,7 @@
+ FocalLength: [920.9895 921.0467]
+          PrincipalPoint: [656.5417 374.8177]
+               ImageSize: [720 1280]
+        RadialDistortion: [0.1239 -0.2186]
+    TangentialDistortion: [0 0]
+                    Skew: 0
+                       K: [3×3 double]
