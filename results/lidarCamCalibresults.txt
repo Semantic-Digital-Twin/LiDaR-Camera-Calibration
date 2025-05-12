@@ -1,0 +1,7 @@
+Estimated Rotation Matrix (lidar to camera):
+  -0.2454   -0.2499    0.9366
+  -0.9690    0.0347   -0.2446
+   0.0287   -0.9676   -0.2507
+
+Estimated Translation Vector (lidar to camera):
+  -1.7356   -0.7906    5.1942
